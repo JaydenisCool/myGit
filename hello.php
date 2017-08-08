@@ -1,4 +1,2 @@
 <?php
-echo 'hello!git';
-echo '你好';;
-fda
+echo '你是我的眼';
